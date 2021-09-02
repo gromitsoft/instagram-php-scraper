@@ -1,6 +1,6 @@
 {
-  "name": "raiym/instagram-php-scraper",
-  "description": "Instagram PHP Scraper. Get account information, photos and videos without any authorization",
+  "name": "gromitsoft/instagram-php-scraper",
+  "description": "Instagram PHP Scraper for OctoberCMS v2",
   "keywords": [
     "instagram",
     "scraper"
@@ -37,6 +37,6 @@
     }
   },
   "support": {
-    "email": "r.kapishev@gmail.com"
+    "email": "info@grom-it.ru"
   }
 }
